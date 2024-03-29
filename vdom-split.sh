@@ -1,4 +1,6 @@
 #!/bin/bash
+#
+# Daniel Amendoeira, initial version 2024.03.29
 
 INPUT=$1
 
