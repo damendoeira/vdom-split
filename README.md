@@ -1,1 +1,1 @@
-Fortigate split VDOMs configs to separate files
+Fortigate split VDOM configs to separate files
